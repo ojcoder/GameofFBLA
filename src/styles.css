@@ -1,0 +1,74 @@
+.home{
+    text-align: center;
+    /*font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;*/
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.selected {
+    background:orange !important;
+}
+
+.playBtn {
+    background:pink !important;
+}
+
+
+.options {
+    padding: 8px;
+    border: 3px solid #000;
+    cursor: pointer;
+    width:100%;
+    background-color: white;
+    color: steelblue;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin: 5px;
+}
+
+.btn-print{
+    color:white;
+}
+
+.logoimg{
+    align-items: center;
+}
+
+.invButton {
+    background-color:rgb(130, 223, 130);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
+
+}
+
+.questionpanel{
+    padding-top: 150px;
+}
+
+.finalpanel{
+    padding-top: 150px;
+}
+
+.homePage{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:x-large;
+    justify-content: center;
+    display:inline
+}
+
+body{
+    vertical-align:middle;
+    display: flex;
+    justify-content: center;    
+    color:white;
+    /*font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    background-color:rgb(34, 33, 33);
+
+ }
